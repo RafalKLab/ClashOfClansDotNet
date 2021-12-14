@@ -1,0 +1,11 @@
+C:\Users\rafci\source\repos\ClashOfClansApi\ClashOfClansApi\bin\Debug\ClashOfClansApi.dll
+C:\Users\rafci\source\repos\ClashOfClansApi\ClashOfClansApi\bin\Debug\ClashOfClansApi.pdb
+C:\Users\rafci\source\repos\ClashOfClansApi\ClashOfClansApi\bin\Debug\RestSharp.dll
+C:\Users\rafci\source\repos\ClashOfClansApi\ClashOfClansApi\bin\Debug\RestSharp.xml
+C:\Users\rafci\source\repos\ClashOfClansApi\ClashOfClansApi\obj\Debug\ClashOfClansApi.csproj.AssemblyReference.cache
+C:\Users\rafci\source\repos\ClashOfClansApi\ClashOfClansApi\obj\Debug\ClashOfClansApi.csproj.CoreCompileInputs.cache
+C:\Users\rafci\source\repos\ClashOfClansApi\ClashOfClansApi\obj\Debug\ClashOfClansApi.csproj.CopyComplete
+C:\Users\rafci\source\repos\ClashOfClansApi\ClashOfClansApi\obj\Debug\ClashOfClansApi.dll
+C:\Users\rafci\source\repos\ClashOfClansApi\ClashOfClansApi\obj\Debug\ClashOfClansApi.pdb
+C:\Users\rafci\source\repos\ClashOfClansApi\ClashOfClansApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rafci\source\repos\ClashOfClansApi\ClashOfClansApi\bin\Debug\Newtonsoft.Json.xml
